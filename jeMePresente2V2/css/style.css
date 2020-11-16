@@ -1,0 +1,51 @@
+/* style.css */
+/* Programmé par Natacha Gariepy */
+/* Le 14 novembre 2020 */
+body{
+  width: 980px;  
+  background-color: aquamarine;
+}
+h1{
+    font-size: 36px;
+}
+h2{
+    font-size: 24px;
+}
+h1,h2{
+    color:rosybrown
+}
+h1,h2{
+    text-align: center;
+}
+p{
+    font-size: 14px;
+    text-align: justify;
+}
+a{
+    color: skyblue;
+    text-decoration:none
+}
+a:visited{
+    color: slateblue;
+}
+a:hover{
+    text-decoration: underline;
+}
+img{
+    width: 300px;
+    border-radius: 1em/3em    
+}
+img:hover{
+    box-shadow: .2em .4em;
+}
+table{
+    border: thistle;
+    color: teal;    
+}
+ul{
+    font-size: 1.5rem;
+    color: teal;
+}
+.lienImage:hover{
+    color: black;
+}
