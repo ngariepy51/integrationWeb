@@ -3,8 +3,11 @@
 /* Le 14 novembre 2020 */
 body{
   width: 900px;  
+  margin: auto;
+  background-image: url("/jeMePresente2V2/img/autoS.jpg");
+  background-repeat: no-repeat;
   background-color: aquamarine;
-}
+  }
 h1{
     font-size: 36px;
 }
@@ -33,7 +36,7 @@ a:hover{
 }
 img{
     width: 300px;
-    border-radius: 1em/3em    
+    border-radius: 1em 3em;
 }
 img:hover{
     box-shadow: .2em .4em;
